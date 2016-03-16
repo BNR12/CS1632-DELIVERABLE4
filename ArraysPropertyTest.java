@@ -15,7 +15,7 @@ public class ArraysPropertyTest{
         //Initialize a new ArrayList of size n
         ArrayList<int[]> random = new ArrayList(n);
 
-        //Initializa a new random number generator
+        //Initialize a new random number generator
         Random generator = new Random();
         int size;
         int number;
